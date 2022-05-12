@@ -1,16 +1,18 @@
-### Hi there 👋
+                                                                       Hi I'm Omar 👋
+                                                                  Full Stack Developer
+                                                                  Blockchain Enthusiast
+                                                                  
+                                                                  
 
-<!--
-**MRMOMAR/MRMOMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Omobio
+- 🌱 I’m doing my Internship
+- 📝 I write articles on https://mrmomar.medium.com/
+- :incoming_envelope: Reach me out mrmomar.online@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=MRMOMAR&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMOMAR)](https://github.com/anuraghazra/github-readme-stats)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mrmomar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
