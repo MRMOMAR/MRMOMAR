@@ -1,6 +1,6 @@
                                                                Hi I'm Omar 👋
                                                           Full Stack Developer
-                                                          Blockchain Enthusiast
+                                                          Blockchain Enthusiast 
                                                                   
                                                                   
 
