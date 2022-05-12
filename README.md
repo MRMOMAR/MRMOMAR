@@ -9,7 +9,7 @@
 - 📝 I write articles on https://mrmomar.medium.com/
 - :incoming_envelope: Reach me out mrmomar.online@gmail.com
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MRMOMAR)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=MRMOMAR&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
