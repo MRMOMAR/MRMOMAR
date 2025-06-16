@@ -4,8 +4,8 @@
                                                                   
                                                                   
 
-- 🔭 I’m currently working at Omobio
-- 🌱 I’m doing my Internship
+- 🔭 I’m currently a fresh graduate
+- 🌱 I have 1 year industrial experience
 - 📝 I write articles on https://mrmomar.medium.com/
 - :incoming_envelope: Reach me out mrmomar.online@gmail.com
 
