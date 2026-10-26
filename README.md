@@ -4,8 +4,8 @@
                                                                   
                                                                   
 
-- 🔭 I’m currently Full Stack Developer
-- 🌱 I have 1+ year industrial experience
+- 🔭 I’m currently a Full Stack Developer
+- 🌱 I have 1.7+ year industrial experience
 - 📝 I write articles on https://mrmomar.medium.com/
 - :incoming_envelope: Reach me out mrmomar.online@gmail.com
 
